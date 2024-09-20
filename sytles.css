@@ -1,0 +1,23 @@
+body{
+    background-color: #7C9EB2;
+}
+.bg-primary{
+    background-color: #231123 !important;
+}
+/* .navbar{
+    background-color: #372554 !important;
+    color: white;
+} */
+.session-card{
+    background-color: #52528C !important;
+    color: white;
+}
+.nav-item{
+    color: white !important;
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-toggler{
+    background-color: #7C9EB2 !important;
+}
